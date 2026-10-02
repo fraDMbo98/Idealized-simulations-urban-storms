@@ -1,0 +1,9 @@
+1,216000000.,40,40,3.,1800.,10000.,1800.
+& id_bubble
+& seconds after beginning of the simulation when you want to initialize the bubble (sec_bubble) WARNING! sec_bubble must be a multiplier of the integration time_step
+& x center bubble (nxc)
+& y center bubble (nyc)
+& thermal perturbation (delt_FDM)
+& center vertical bubble (z_b)
+& radius xy
+& z_radius 
